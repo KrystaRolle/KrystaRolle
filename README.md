@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-## 🔭  I’m currently working on ...
-- 🌱 I’m currently learning ...
-1. Javascript
-1. Algorithmic Thinking
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## 🔭  I’m currently working on:
+Debugging JavaScript code in the browser
+Handling browser generated events
+Data relationships and how to visualize them
+🌱 I’m currently learning Fullstack Web Development
+- 🤔 I’m looking for help with capstone project ideas
+- 💬 Ask me about digital art 
 - 📫 How to reach me: krystian.rolle@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: One of my biggest goals is to build an open world video game
 
